@@ -5,6 +5,10 @@
       "path": "Dashboard/Home Page.md"
     },
     {
+      "basename": "LICENSE",
+      "path": "LICENSE.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
