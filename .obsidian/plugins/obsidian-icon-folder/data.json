@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RaCampfire",
-      "FarImages",
-      "IbPencil",
-      "RaFire",
-      "RaBattery25"
+      "LiImage",
+      "RaMirror",
+      "LiSettings",
+      "IbDashboard",
+      "RaCampfire"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,15 +36,15 @@
   },
   "Atlas": "FarCompass",
   "Calendar": "IbCalendar",
-  "Settigns": "RaRepair",
   "Atlas/MOCs": "IbDisplayZoom",
-  "Settigns/Templates": "RaMirror",
   "Atlas/Notes": "FarNoteSticky",
   "Calendar/Notes": "FarNoteSticky",
   "Atlas/Utilities": "RaPotion",
   "Atlas/Utilities/Library": "RaBook",
   "Atlas/Utilities/Excalidraw": "IbPencil",
   "Atlas/Utilities/Images": "FarImages",
-  "Dashboard": "IbDashboardOneIsFilled",
-  "Settigns/Backgrounds": "FarImages"
+  "Dashboard": "IbDashboard",
+  "Settigns": "LiSettings",
+  "Settigns/Backgrounds": "LiImage",
+  "Settigns/Templates": "RaMirror"
 }
