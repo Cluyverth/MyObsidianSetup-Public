@@ -5,24 +5,24 @@
       "path": "Dashboard/Home Page.md"
     },
     {
-      "basename": "2025-03-23",
-      "path": "Calendar/Notes/2025-03-23.md"
+      "basename": "Board.excalidraw",
+      "path": "Atlas/MOCs/Board.excalidraw.md"
     },
     {
-      "basename": "Activities Planner",
-      "path": "Atlas/MOCs/Activities Planner.md"
-    },
-    {
-      "basename": "Test Card",
-      "path": "Atlas/Notes/Test Card.md"
-    },
-    {
-      "basename": "Game Dev",
-      "path": "Atlas/MOCs/Game Dev.md"
+      "basename": "Tasks",
+      "path": "Atlas/MOCs/Tasks.md"
     },
     {
       "basename": "Anotações",
       "path": "Atlas/Notes/Anotações.md"
+    },
+    {
+      "basename": "2025-03-23",
+      "path": "Calendar/Notes/2025-03-23.md"
+    },
+    {
+      "basename": "Test Card",
+      "path": "Atlas/Notes/Test Card.md"
     },
     {
       "basename": "202404092000 - Lean, Scrum e Kanban",
@@ -43,10 +43,6 @@
     {
       "basename": "Introduction to Algorithms - 3rd Edition",
       "path": "Atlas/Utilities/Library/Introduction to Algorithms - 3rd Edition.pdf"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Atlas/MOCs/Tasks.md"
     },
     {
       "basename": "NihonGO",
@@ -71,10 +67,6 @@
     {
       "basename": "PUC Minas - Specialization in Software Engineering",
       "path": "Atlas/MOCs/PUC Minas - Specialization in Software Engineering.md"
-    },
-    {
-      "basename": "Board.excalidraw",
-      "path": "Atlas/MOCs/Board.excalidraw.md"
     },
     {
       "basename": "Arquitetura de Front-End",
