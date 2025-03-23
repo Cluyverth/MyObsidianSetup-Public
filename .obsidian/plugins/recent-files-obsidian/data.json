@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Home Page",
-      "path": "Dashboard/Home Page.md"
-    },
-    {
       "basename": "Board.excalidraw",
       "path": "Atlas/MOCs/Board.excalidraw.md"
     },
@@ -17,10 +13,6 @@
       "path": "Atlas/Notes/Anotações.md"
     },
     {
-      "basename": "2025-03-23",
-      "path": "Calendar/Notes/2025-03-23.md"
-    },
-    {
       "basename": "Test Card",
       "path": "Atlas/Notes/Test Card.md"
     },
@@ -29,20 +21,8 @@
       "path": "Atlas/Notes/202404092000 - Lean, Scrum e Kanban.md"
     },
     {
-      "basename": "image",
-      "path": "Atlas/Utilities/Images/image.png"
-    },
-    {
       "basename": "202404201256 - How to move a gameObject",
       "path": "Atlas/Notes/202404201256 - How to move a gameObject.md"
-    },
-    {
-      "basename": "2024-03-21",
-      "path": "Calendar/Notes/2024-03-21.md"
-    },
-    {
-      "basename": "Introduction to Algorithms - 3rd Edition",
-      "path": "Atlas/Utilities/Library/Introduction to Algorithms - 3rd Edition.pdf"
     },
     {
       "basename": "NihonGO",
@@ -51,10 +31,6 @@
     {
       "basename": "Backlog",
       "path": "Atlas/MOCs/Backlog.md"
-    },
-    {
-      "basename": "Gestão Ágil de Projetos",
-      "path": "Atlas/Notes/Gestão Ágil de Projetos.md"
     },
     {
       "basename": "WWW",
@@ -85,70 +61,6 @@
       "path": "Atlas/Notes/Trabalhar como Desenvolvedor no Japão.md"
     },
     {
-      "basename": "Activities_Template",
-      "path": "Settigns/Templates/Activities_Template.md"
-    },
-    {
-      "basename": "Atomic_Notes_Template",
-      "path": "Settigns/Templates/Atomic_Notes_Template.md"
-    },
-    {
-      "basename": "Daily_Task_Note_Template",
-      "path": "Settigns/Templates/Daily_Task_Note_Template.md"
-    },
-    {
-      "basename": "Fleeting_Note_Template",
-      "path": "Settigns/Templates/Fleeting_Note_Template.md"
-    },
-    {
-      "basename": "Literature_Note_Template",
-      "path": "Settigns/Templates/Literature_Note_Template.md"
-    },
-    {
-      "basename": "MOC_Template",
-      "path": "Settigns/Templates/MOC_Template.md"
-    },
-    {
-      "basename": "Permanent_Note_Template",
-      "path": "Settigns/Templates/Permanent_Note_Template.md"
-    },
-    {
-      "basename": "Project_Template",
-      "path": "Settigns/Templates/Project_Template.md"
-    },
-    {
-      "basename": "Study_Note_Template",
-      "path": "Settigns/Templates/Study_Note_Template.md"
-    },
-    {
-      "basename": "Topic_Template",
-      "path": "Settigns/Templates/Topic_Template.md"
-    },
-    {
-      "basename": "Youtube_Script_Note_Template",
-      "path": "Settigns/Templates/Youtube_Script_Note_Template.md"
-    },
-    {
-      "basename": "1351987",
-      "path": "Settigns/Backgrounds/1351987.jpeg"
-    },
-    {
-      "basename": "1337450",
-      "path": "Settigns/Backgrounds/1337450.jpeg"
-    },
-    {
-      "basename": "1342988",
-      "path": "Settigns/Backgrounds/1342988.png"
-    },
-    {
-      "basename": "1336203",
-      "path": "Settigns/Backgrounds/1336203.jpeg"
-    },
-    {
-      "basename": "976013",
-      "path": "Settigns/Backgrounds/976013.jpg"
-    },
-    {
       "basename": "Anki",
       "path": "Atlas/Notes/Anki.md"
     },
@@ -171,18 +83,6 @@
     {
       "basename": "WSL (Windows Subsystem for Linux)",
       "path": "Atlas/Notes/WSL (Windows Subsystem for Linux).md"
-    },
-    {
-      "basename": "Interpreted Programming Language",
-      "path": "Atlas/Notes/Interpreted Programming Language.md"
-    },
-    {
-      "basename": "HTML",
-      "path": "Atlas/Notes/HTML.md"
-    },
-    {
-      "basename": "Pasted image 20240402221612",
-      "path": "Atlas/Utilities/Images/Pasted image 20240402221612.png"
     }
   ],
   "omittedPaths": [],
