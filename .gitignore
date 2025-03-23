@@ -24,7 +24,13 @@ Dashboard/**/*
 # Permitir arquivos dentro de Templates e Backgrounds
 !Settings/Templates/**/*
 !Settings/Backgrounds/**/*
+
+# Permitir arquivos dentro de Dashboard e alguns MOCs
 !Dashboard/**/*
+!Atlas/MOCs/ActivitiesPlanner.md
+!Atlas/MOCs/Backlog.md
+!Atlas/MOCs/Tasks.md
+!Atlas/MOCs/GameDev.md
 
 # Permitir pastas vazias usando arquivos .gitkeep
 !**/.gitkeep
